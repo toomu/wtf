@@ -1,7 +1,7 @@
 # wtf
 
 
-
+dksvkfzx
 
 #this is zulqarnain edit. thngis is latest changes
 
@@ -11,5 +11,5 @@ hoohohohohoho
 
 #include <stdio.h>
 
-plz shutupppppppppp yaaaaaaaar
+plz shutupppppppppp yaaaaaaaardkvfdlkv
 
